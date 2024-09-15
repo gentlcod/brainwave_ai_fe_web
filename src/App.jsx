@@ -7,6 +7,7 @@ import Collaboration from './components/Collaboration'
 import Services from './components/Services'
 import Pricing from './components/Pricing'
 import Roadmap from './components/Roadmap'
+import Footer from './components/Footer' 
 
 const App = function() {
 
@@ -21,6 +22,7 @@ const App = function() {
       <Services/>
       <Pricing/>
       <Roadmap/>
+      <Footer/>
     </div>
 
     <ButtonGradient />

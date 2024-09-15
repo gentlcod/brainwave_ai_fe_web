@@ -18,12 +18,12 @@
 }
 
 ::-webkit-scrollbar {
-  width: 5px; /* width of the scrollbar */
+  width: 7px;
 }
 
 ::-webkit-scrollbar-thumb {
-  background-color: #704ae2; /* color of the scrollbar thumb */
-  border-radius: 15px; /* roundness of the scrollbar thumb */
+  background-color: #ac6bff; /* color of the scrollbar thumb */
+  border-radius: 13px; /* roundness of the scrollbar thumb */
 }
 
 @layer base {
